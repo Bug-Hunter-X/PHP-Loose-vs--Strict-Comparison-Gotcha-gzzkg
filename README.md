@@ -1,0 +1,3 @@
+This repository demonstrates a common pitfall in PHP programming: the difference between loose and strict comparison. The `bug.php` file showcases the unexpected behavior that can arise from using strict comparison (===) with arrays or objects. The `bugSolution.php` file offers a solution illustrating best practices for handling comparisons in PHP.
+
+This is important because it can lead to subtle bugs that are difficult to track down. Understanding how PHP's comparison operators work is crucial to writing reliable and robust code.
